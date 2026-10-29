@@ -1,0 +1,30 @@
+{
+ "schema": "berawa-captacion/1",
+ "negocio": "grand-hotel-don-gregorio-salamanca",
+ "maps": {
+  "fecha": "2026-10-29T04:54:23+01:00",
+  "estado": "LEIDA",
+  "ficha": "Grand Hotel Don Gregorio",
+  "nota": 4.7,
+  "coincide": {
+   "tel": true,
+   "web": true
+  },
+  "url": "https://www.google.com/maps/place/Grand+Hotel+Don+Gregorio/@40.9603789,-5.6643255,17z/data=!4m9!3m8!1s0xd3f266ad78a0da7:0x73b7645be24b4cc0!5m2!4m1!1i2!8m2!3d40.9603789!4d-5.6643255!16s%2Fg%2F1tx16nf2",
+  "herramienta": "factory/webfactory/maps_rating.py"
+ },
+ "web_filtro": {
+  "fecha": "2026-10-29T04:54:23+01:00",
+  "veredicto": "DUDOSA",
+  "informe_velocidad": "LCP > 4 s",
+  "herramienta": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "titular": {
+  "razon_social": "PROTEL SAN PABLO, S.L.U.",
+  "cif": "B83919092",
+  "fuente": "https://www.hoteldongregorio.com/aviso-legal.html",
+  "persona_juridica": true,
+  "cadena": false,
+  "nota": "Aviso legal de la web: compañía mercantil Protel San Pablo S.L.U. (persona jurídica); un solo hotel en esta web; no cadena."
+ }
+}
