@@ -1,0 +1,456 @@
+{
+ "url": "file:///tmp/zip-grand-hotel-don-gregorio-salamanca/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Cuántas habitaciones tiene?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Tiene 14 habitaciones decoradas de manera personalizada: Doble Deluxe de 23 m2, Doble Deluxe Superior de 33 m2 y Suite de 54 m2."
+    },
+    {
+     "q": "¿Hay minibar y cafetera?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Las habitaciones tienen aire acondicionado, minibar, secador de pelo, albornoz, zapatillas, teléfono, TV vía satélite, wifi y cafetera Nespr"
+    },
+    {
+     "q": "¿Hay spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: dispone de spa, que ofrece relax y desconexión después de un día de turismo por la ciudad, y de servicio de masajes."
+    },
+    {
+     "q": "¿Tiene restaurante?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Don Gregorio alberga el Restaurante Ment, y su web lo presenta como un restaurante con estrella Michelin."
+    },
+    {
+     "q": "¿Hay desayuno?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ofrecen tres desayunos: Continental (bollería, tostadas de pan artesano, fruta, yogur y zumo natural), Ibérico (mini tortilla de patata, jam"
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hay wifi de calidad completamente gratuito en todo el edificio. Entre sus servicios figuran recepción 24 horas, restaurante, bar, spa, servi"
+    },
+    {
+     "q": "¿Es accesible?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí: según su web, las instalaciones y accesos del hotel están completamente adaptados para personas con movilidad reducida."
+    },
+    {
+     "q": "¿Hay parking?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Su web incluye aparcamiento entre los servicios del hotel, pero no detalla condiciones; consúltalas con el hotel."
+    },
+    {
+     "q": "¿Dónde está el hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Está en la calle San Pablo 80-82, 37008 Salamanca, en pleno centro histórico."
+    },
+    {
+     "q": "¿Qué historia tiene el palacio?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "El hotel ocupa un antiguo palacio del siglo XV, propiedad del caballero D. Antonio Mangas Villafuerte, restaurado hasta convertirse en aloja"
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado» y, para reservas, contactar con el teléfono +34923217015 o el correo info@hoteldongregorio.com. Est"
+    },
+    {
+     "q": "¿Cuál es el teléfono?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Teléfono +34923217015; correo info@hoteldongregorio.com."
+    },
+    {
+     "q": "¿Quién es el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Su aviso legal indica como compañía mercantil a Protel San Pablo, S.L.U., CIF B83919092."
+    },
+    {
+     "q": "¿Admiten mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "¿Cuánto cuesta una noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Confírmame que hay una habitación libre mañana",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Su web indica «mejor precio garantizado» y, para reservas, contactar con el teléfono +34923217015 o el correo info@hoteldongregorio.com. Est"
+    }
+   ],
+   "chips": [
+    "¿Cuántas habitaciones tiene?",
+    "¿Hay spa?",
+    "¿Hay restaurante?",
+    "¿Cómo se reserva?"
+   ]
+  },
+  "ca": {
+   "textos_iguales_al_es": [
+    "book",
+    "intro_k",
+    "send",
+    "stat1",
+    "svc0",
+    "room0_n",
+    "room1_n",
+    "room2_n",
+    "menu",
+    "langs_label"
+   ],
+   "chat": [
+    {
+     "q": "Quantes habitacions té?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Té 14 habitacions decorades de manera personalitzada: Doble Deluxe de 23 m2, Doble Deluxe Superior de 33 m2 i Suite de 54 m2."
+    },
+    {
+     "q": "Hi ha minibar i cafetera?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les habitacions tenen aire condicionat, minibar, assecador de cabells, barnús, sabatilles, telèfon, TV per satèl·lit, wifi i cafetera Nespre"
+    },
+    {
+     "q": "Hi ha spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí: disposa d'spa, que ofereix relax i desconnexió després d'un dia de turisme per la ciutat, i de servei de massatges."
+    },
+    {
+     "q": "Té restaurant?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Don Gregorio acull el Restaurant Ment, i la seva web el presenta com un restaurant amb estrella Michelin."
+    },
+    {
+     "q": "Hi ha esmorzar?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ofereixen tres esmorzars: Continental (brioixeria, torrades de pa artesà, fruita, iogurt i suc natural), Ibèric (mini truita de patata, pern"
+    },
+    {
+     "q": "Hi ha wifi?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Hi ha wifi de qualitat completament gratuït a tot l'edifici. Entre els seus serveis hi ha recepció 24 hores, restaurant, bar, spa, servei d'"
+    },
+    {
+     "q": "És accessible?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Sí: segons la seva web, les instal·lacions i accessos de l'hotel estan completament adaptats per a persones amb mobilitat reduïda."
+    },
+    {
+     "q": "Hi ha pàrquing?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "La seva web inclou aparcament entre els serveis de l'hotel, però no en detalla les condicions; consulta-les amb l'hotel."
+    },
+    {
+     "q": "On és l'hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "És al carrer San Pablo 80-82, 37008 Salamanca, en ple centre històric."
+    },
+    {
+     "q": "Quina història té el palau?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "L'hotel ocupa un antic palau del segle XV, propietat del cavaller D. Antonio Mangas Villafuerte, restaurat fins a convertir-se en allotjamen"
+    },
+    {
+     "q": "Com reservo?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit» i, per a reserves, contactar amb el telèfon +34923217015 o el correu info@hoteldongregorio.com. Aq"
+    },
+    {
+     "q": "Quin és el telèfon?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Telèfon +34923217015; correu info@hoteldongregorio.com."
+    },
+    {
+     "q": "Qui és el titular?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "El seu avís legal indica com a companyia mercantil Protel San Pablo, S.L.U., CIF B83919092."
+    },
+    {
+     "q": "Admeteu mascotes?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Quant costa una nit?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No disposo d'aquesta informació. Escriu-nos o truca'ns: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Confirma'm que hi ha una habitació lliure demà",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "La seva web indica «millor preu garantit» i, per a reserves, contactar amb el telèfon +34923217015 o el correu info@hoteldongregorio.com. Aq"
+    }
+   ],
+   "chips": [
+    "Quantes habitacions té?",
+    "Hi ha spa?",
+    "Hi ha restaurant?",
+    "Com es reserva?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1",
+    "svc0",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "How many rooms does it have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "It has 14 individually decorated rooms: Double Deluxe of 23 m2, Double Deluxe Superior of 33 m2 and Suite of 54 m2."
+    },
+    {
+     "q": "Is there a minibar and coffee machine?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "The rooms have air conditioning, a minibar, hairdryer, bathrobe, slippers, telephone, satellite TV, wifi and a Nespresso machine with capsul"
+    },
+    {
+     "q": "Is there a spa?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes: it has a spa, which offers relaxation and a chance to unwind after a day of sightseeing in the city, and a massage service."
+    },
+    {
+     "q": "Does it have a restaurant?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Don Gregorio houses the Ment Restaurant, and its website presents it as a Michelin-starred restaurant."
+    },
+    {
+     "q": "Is there breakfast?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "They offer three breakfasts: Continental (pastries, artisan bread toast, fruit, yogurt and fresh juice), Iberian (mini potato omelette, Iber"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "There is quality wifi, completely free, throughout the building. Its services include 24-hour reception, restaurant, bar, spa, room service,"
+    },
+    {
+     "q": "Is it accessible?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Yes: according to its website, the hotel's facilities and access are fully adapted for people with reduced mobility."
+    },
+    {
+     "q": "Is there parking?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Its website lists parking among the hotel's services but gives no details; ask the hotel for the conditions."
+    },
+    {
+     "q": "Where is the hotel?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "It is at Calle San Pablo 80-82, 37008 Salamanca, in the heart of the historic centre."
+    },
+    {
+     "q": "What history does the palace have?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "The hotel occupies a former palace from the fifteenth century, owned by the knight D. Antonio Mangas Villafuerte, restored into a luxury hot"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed» and, for bookings, to contact the phone +34923217015 or the email info@hoteldongregorio.com. This a"
+    },
+    {
+     "q": "What is the phone number?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Phone +34923217015; email info@hoteldongregorio.com."
+    },
+    {
+     "q": "Who is the owner?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Its legal notice names Protel San Pablo, S.L.U., CIF B83919092, as the company."
+    },
+    {
+     "q": "Are pets allowed?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Confirm that there is a free room tomorrow",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Its website says «best price guaranteed» and, for bookings, to contact the phone +34923217015 or the email info@hoteldongregorio.com. This a"
+    }
+   ],
+   "chips": [
+    "How many rooms does it have?",
+    "Is there a spa?",
+    "Is there a restaurant?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k",
+    "stat1",
+    "svc0",
+    "room2_n"
+   ],
+   "chat": [
+    {
+     "q": "Combien de chambres a-t-il ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il compte 14 chambres décorées de manière personnalisée : Double Deluxe de 23 m2, Double Deluxe Supérieure de 33 m2 et Suite de 54 m2."
+    },
+    {
+     "q": "Y a-t-il un minibar et une cafetière ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Les chambres disposent de la climatisation, d'un minibar, d'un sèche-cheveux, d'un peignoir, de chaussons, d'un téléphone, de la TV par sate"
+    },
+    {
+     "q": "Y a-t-il un spa ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui : il dispose d'un spa, qui offre détente et déconnexion après une journée de tourisme dans la ville, et d'un service de massages."
+    },
+    {
+     "q": "A-t-il un restaurant ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Don Gregorio abrite le Restaurant Ment, et son site le présente comme un restaurant étoilé Michelin."
+    },
+    {
+     "q": "Y a-t-il un petit-déjeuner ?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Ils proposent trois petits-déjeuners : Continental (viennoiseries, toasts de pain artisanal, fruits, yaourt et jus naturel), Ibérique (mini "
+    },
+    {
+     "q": "Y a-t-il du wifi ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Il y a un wifi de qualité entièrement gratuit dans tout le bâtiment. Ses services comprennent réception 24 heures, restaurant, bar, spa, ser"
+    },
+    {
+     "q": "Est-il accessible ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Oui : selon son site, les installations et accès de l'hôtel sont entièrement adaptés aux personnes à mobilité réduite."
+    },
+    {
+     "q": "Y a-t-il un parking ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Son site inclut le parking parmi les services de l'hôtel, mais n'en détaille pas les conditions ; renseignez-vous auprès de l'hôtel."
+    },
+    {
+     "q": "Où est l'hôtel ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Il se trouve calle San Pablo 80-82, 37008 Salamanque, en plein centre historique."
+    },
+    {
+     "q": "Quelle histoire a le palais ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "L'hôtel occupe un ancien palais du XVe siècle, propriété du chevalier D. Antonio Mangas Villafuerte, restauré jusqu'à devenir un hébergement"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti» et, pour les réservations, de contacter le téléphone +34923217015 ou l'e-mail info@hoteldongregorio"
+    },
+    {
+     "q": "Quel est le téléphone ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Téléphone +34923217015 ; e-mail info@hoteldongregorio.com."
+    },
+    {
+     "q": "Qui est le titulaire ?",
+     "esperado": "K13",
+     "ok": true,
+     "respuesta": "Sa mention légale désigne Protel San Pablo, S.L.U., CIF B83919092, comme société."
+    },
+    {
+     "q": "Les animaux sont-ils admis ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Combien coûte une nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : 923 217 015 · info@hoteldongregorio.com."
+    },
+    {
+     "q": "Confirmez-moi qu'il y a une chambre libre demain",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Son site indique «meilleur prix garanti» et, pour les réservations, de contacter le téléphone +34923217015 ou l'e-mail info@hoteldongregorio"
+    }
+   ],
+   "chips": [
+    "Combien de chambres a-t-il ?",
+    "Y a-t-il un spa ?",
+    "Y a-t-il un restaurant ?",
+    "Comment réserver ?"
+   ]
+  }
+ },
+ "fail": [],
+ "ok": true
+}

@@ -1,0 +1,51 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.hoteldongregorio.com/",
+ "read_at": "2026-10-29T04:57:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.hoteldongregorio.com/",
+   "sha256": "1c6b7a6d7093cdc0f050e8b4362981909b0c90e0829c955334928768ac43df48",
+   "chars": 12070
+  },
+  {
+   "url": "https://www.hoteldongregorio.com/aviso-legal.html",
+   "sha256": "bc2903f326965ca2d81549ad2e5dfa9ae4f5e37a66eb4dfa78487d00b7d9b4eb",
+   "chars": 7119
+  },
+  {
+   "url": "https://www.hoteldongregorio.com/contacto.html",
+   "sha256": "0b2aa8c5fb60aa5420b9a2ea402fa4e0b9dc63012ea42af2c8f56d350f6dabb6",
+   "chars": 6395
+  },
+  {
+   "url": "https://www.hoteldongregorio.com/experiencia-para-dos.html",
+   "sha256": "7789ffbf3256fdecf6058a318b51a8b46e9cb6eebef37261feb20c50c94e4c1c",
+   "chars": 6490
+  },
+  {
+   "url": "https://www.hoteldongregorio.com/servicios.html",
+   "sha256": "185ae5642cefd1b498335d609c4c215f4eb526cd66bcf6a2c2e09f6433deffa3",
+   "chars": 6705
+  }
+ ],
+ "other_pages_read": [
+  "https://www.hoteldongregorio.com",
+  "https://www.hoteldongregorio.com/EN/home.html",
+  "https://www.hoteldongregorio.com/FR/home.html",
+  "https://www.hoteldongregorio.com/IT/home.html",
+  "https://www.hoteldongregorio.com/PT/home.html",
+  "https://www.hoteldongregorio.com/bonos-regalo.html",
+  "https://www.hoteldongregorio.com/cookies.html",
+  "https://www.hoteldongregorio.com/desayunos.html",
+  "https://www.hoteldongregorio.com/descuento-en-reservas-web.html",
+  "https://www.hoteldongregorio.com/destacado-spa.html",
+  "https://www.hoteldongregorio.com/doble-deluxe-superior.html",
+  "https://www.hoteldongregorio.com/doble-deluxe.html",
+  "https://www.hoteldongregorio.com/habitaciones.html",
+  "https://www.hoteldongregorio.com/missing-you.html",
+  "https://www.hoteldongregorio.com/promociones.html",
+  "https://www.hoteldongregorio.com/quedate-mas-noches-y-obtendras-mas-descuento.html"
+ ]
+}
