@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-grand-hotel-don-gregorio-salamanca",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-10-29T04:58:00+01:00",
+ "updated_at": "2026-10-29T05:00:00+01:00",
+ "business": {
+  "name": "Grand Hotel Don Gregorio",
+  "legal_name": "Protel San Pablo S.L.U.",
+  "registry_ids": [
+   "CIF B83919092"
+  ],
+  "url": "https://www.hoteldongregorio.com/",
+  "domain": "hoteldongregorio.com",
+  "municipality": "Salamanca",
+  "province": "Salamanca",
+  "address": "Calle San Pablo 80-82 · 37008 Salamanca",
+  "phones": [
+   "923 217 015"
+  ],
+  "emails": [
+   "info@hoteldongregorio.com"
+  ],
+  "sector": "hotel con spa y restaurante en palacio del siglo XV"
+ },
+ "rating": {
+  "value": 4.7,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por telefono, web)",
+  "url": "https://www.google.com/maps/place/Grand+Hotel+Don+Gregorio/@40.9603789,-5.6643255,17z/data=!4m9!3m8!1s0xd3f266ad78a0da7:0x73b7645be24b4cc0!5m2!4m1!1i2!8m2!3d40.9603789!4d-5.6643255!16s%2Fg%2F1tx16nf2",
+  "date": "2026-10-29T04:54:23+01:00",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "ca",
+  "en",
+  "fr"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "mail",
+  "email": "info@hoteldongregorio.com",
+  "note": "La web del negocio pide contactar por telefono o correo para reservas en sus ofertas y tiene su propio motor; la demo usa solo contacto real (correo y telefono)."
+ },
+ "audit_original": {
+  "url": "https://www.hoteldongregorio.com/",
+  "date": "2026-10-29T04:58:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: hotel con precedente en demos de esta tanda",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
